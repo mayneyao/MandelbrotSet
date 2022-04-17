@@ -1,0 +1,17 @@
+{
+  "packageId": "wpkYJbQheY088",
+  "spaceId": "spc242P4cLxkd",
+  "entry": "./src/index.tsx",
+  "name": {
+    "zh-CN": "MandelbrotSet",
+    "en-US": "MandelbrotSet"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "MandelbrotSet 的描述",
+    "en-US": "MandelbrotSet description"
+  },
+  "sandbox": true
+}
